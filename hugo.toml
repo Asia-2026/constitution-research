@@ -2,3 +2,12 @@ baseURL = "https://asia-2026.github.io/constitution-research/"
 languageCode = "en-us"
 title = "Living Constitution Research"
 theme = "PaperMod"
+
+[params]
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+
+[[menu.main]]
+  name = "Commentary"
+  url = "/Commentary/"
+  weight = 1
