@@ -1,0 +1,15 @@
+{
+  "name": "Living Constitution Research",
+  "short_name": "Living Constitution Research",
+  "start_url": "/constitution-research/",
+  "scope": "/constitution-research/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/constitution-research/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}

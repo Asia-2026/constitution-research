@@ -1,13 +1,19 @@
 baseURL = "https://asia-2026.github.io/constitution-research/"
 languageCode = "en-us"
 title = "Living Constitution Research"
-theme = "PaperMod"
+theme = "book"
 
 [params]
-  ShowReadingTime = true
-  ShowPostNavLinks = true
+  BookSection = "Commentary"
+  BookSearch = true
+  BookToC = true
 
 [[menu.main]]
   name = "Commentary"
   url = "/Commentary/"
   weight = 1
+
+[[menu.main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 2
