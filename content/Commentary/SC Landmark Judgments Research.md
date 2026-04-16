@@ -1,8 +1,8 @@
----
++++
 title: "E-Museum Project on Landmark Constitutional Cases of the Supreme Court of India"
 date: 2026-04-16
 draft: false
----
++++
 
 *"The foremost task of the Supreme Court is to interpret the
 Constitution which is but a means of ordering the life of a progressive
