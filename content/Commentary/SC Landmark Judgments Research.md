@@ -1,5 +1,10 @@
-***E-MUSEUM PROJECT ON LANDMARK CONSTITUTIONAL CASES OF THE SUPREME
-COURT OF INDIA***
+---
+title: "SC Landmark Judgments Research"
+date: 2026-04-16
+description: "E-Museum Project on Landmark Constitutional Cases of the Supreme Court of India"
+tags: ["Commentary", "Supreme Court", "Landmark Cases"]
+---
+
 
 *"The foremost task of the Supreme Court is to interpret the
 Constitution which is but a means of ordering the life of a progressive
