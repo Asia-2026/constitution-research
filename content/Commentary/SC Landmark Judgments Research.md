@@ -1,7 +1,11 @@
 +++
-title: "E-Museum Project on Landmark Constitutional Cases of the Supreme Court of India"
-date: 2026-04-16
-draft: false
+
+date = '2026-04-16T09:44:06+05:30'
+
+draft = false
+
+title = 'E-Museum Project on Landmark Constitutional Cases of the Supreme Court of India'
+
 +++
 
 *"The foremost task of the Supreme Court is to interpret the
