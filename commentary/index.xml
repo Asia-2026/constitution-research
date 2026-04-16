@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Living Constitution Research</title>
-    <link>https://asia-2026.github.io/constitution-research/</link>
-    <description>Recent content on Living Constitution Research</description>
+    <title>Commentaries on Living Constitution Research</title>
+    <link>https://asia-2026.github.io/constitution-research/commentary/</link>
+    <description>Recent content in Commentaries on Living Constitution Research</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Apr 2026 09:44:06 +0530</lastBuildDate>
-    <atom:link href="https://asia-2026.github.io/constitution-research/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Welcome to Living Constitution Research</title>
-      <link>https://asia-2026.github.io/constitution-research/posts/welcome/</link>
-      <pubDate>Mon, 13 Apr 2026 09:44:06 +0530</pubDate>
-      <guid>https://asia-2026.github.io/constitution-research/posts/welcome/</guid>
-      <description>&lt;p&gt;This is the research archive for constitutional commentary, biographies, Constituent Assembly Debates (CAD), and volume summaries.&lt;/p&gt;</description>
-    </item>
+    <atom:link href="https://asia-2026.github.io/constitution-research/commentary/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://asia-2026.github.io/constitution-research/commentary/sc-landmark-judgments-research/</link>

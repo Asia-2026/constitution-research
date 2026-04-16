@@ -2,17 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://asia-2026.github.io/constitution-research/</loc>
     <lastmod>2026-04-13T09:44:06+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://asia-2026.github.io/constitution-research/posts/</loc>
     <lastmod>2026-04-13T09:44:06+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/welcome/</loc>
+    <loc>https://asia-2026.github.io/constitution-research/posts/welcome/</loc>
     <lastmod>2026-04-13T09:44:06+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://asia-2026.github.io/constitution-research/commentary/sc-landmark-judgments-research/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://asia-2026.github.io/constitution-research/categories/</loc>
+  </url><url>
+    <loc>https://asia-2026.github.io/constitution-research/commentary/</loc>
+  </url><url>
+    <loc>https://asia-2026.github.io/constitution-research/tags/</loc>
   </url>
 </urlset>
