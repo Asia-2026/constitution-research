@@ -9,7 +9,7 @@ theme = "book"
   BookSection = "Commentary"
   BookSearch = true
   BookToC = true
-  BookLogo = "/logo.png"
+ 
 
 [[menu.main]]
   name = "Commentary"

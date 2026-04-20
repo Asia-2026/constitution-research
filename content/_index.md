@@ -1,16 +1,13 @@
 ---
-title: "Living Constitution Research"
+title: "Welcome to Living Constitution Research"
 ---
-
-# Welcome to Living Constitution Research
 
 This is the official research archive of the **Constitution Museum**.
 
 Browse our collection of:
 
-- 📜 Constitutional Commentary
-- ⚖️ Landmark Supreme Court Cases  
-- 👤 Biographies
-- 📚 Constituent Assembly Debates (CAD)
-
+- 📜 [Constitutional Commentary](/Commentary/)
+- ⚖️ [Landmark Supreme Court Cases](/Commentary/)
+- 👤 [Biographies](/biographies/)
+- 📚 [Constituent Assembly Debates](/cad/)
 

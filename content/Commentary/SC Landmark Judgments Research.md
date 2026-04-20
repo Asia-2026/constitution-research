@@ -1,5 +1,5 @@
 ---
-title: "E-Museum Project on Landmark Constitutional Cases of the Supreme Court of India"
+title: "SC Landmark Judgments Research"
 date: 2026-04-16
 description: "E-Museum Project on Landmark Constitutional Cases of the Supreme Court of India"
 tags: ["Commentary", "Supreme Court", "Landmark Cases"]
