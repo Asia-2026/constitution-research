@@ -1,3 +1,5 @@
 ---
-title: "landmark cases"
------- 
+title: "Landmark Cases"
+bookCollapseSection: true
+---
+Landmark Cases.

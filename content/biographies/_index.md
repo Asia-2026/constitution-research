@@ -1,3 +1,5 @@
 ---
-title: "biographies"
------- 
+title: "biographies]"
+bookCollapseSection: true
+---
+Biographies.
