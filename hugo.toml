@@ -6,14 +6,15 @@ theme = "book"
 
 
 [params]
-  BookSection = "Commentary"
+  BookSection = "commentary"
   BookSearch = true
   BookToC = true
+  BookLogo = "images/logo.png"
  
 
 [[menu.main]]
   name = "Commentary"
-  url = "/Commentary/"
+  url = "/commentary/"
   weight = 1
 
 [[menu.main]]
