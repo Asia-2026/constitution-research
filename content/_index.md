@@ -1,5 +1,6 @@
 ---
 title: "Welcome to Living Constitution Research"
+bookToC: false
 ---
 
 Welcome to the **Living Constitution Research Archive** — the official digital research repository of the **Constitution Museum of India**. This archive has been created to provide scholars, students, legal professionals, and citizens with comprehensive access to India's constitutional history and its ongoing evolution.
@@ -26,9 +27,6 @@ The Constituent Assembly Debates are the primary source for understanding the in
 
 This research archive is maintained by the **Advanced Study Institute of Asia (ASIA)**. Our mission is to make India's constitutional heritage accessible, searchable, and understandable for everyone.
 
-> *"The Constitution is not a mere lawyers document, it is a vehicle of Life, and its spirit is always the spirit of Age."*
-> — Dr. B.R. Ambedkar
-
 ---
 
-*Use the search bar on the left to find specific topics, or browse through the sections using the navigation menu.*
+*Use the search bar on the left to find specific topics.
