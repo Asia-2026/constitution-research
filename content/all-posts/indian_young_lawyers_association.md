@@ -9,7 +9,7 @@ draft: false
 # INDIAN YOUNG LAWYERS ASSOCIATION VERSUS THE STATE OF KERALA
 
 *[[Indian Young Lawyers Association versus the State of
-Kerala]{.underline}](https://indiankanoon.org/doc/163639357/)* is a 2018
+Kerala]](https://indiankanoon.org/doc/163639357/)* is a 2018
 case related to the entry of women aged between 10 and 50 into the
 Sabrimala Temple in Kerala. The entry of women into the temple was
 prohibited on the grounds of purity and sanctity and thus was considered
@@ -23,7 +23,7 @@ enshrined in Articles 14, 15, 17 and 25.
 
 The Sabrimala Temple is situated in the Sabrimala hills in the state of
 Kerala. The temple is [[dedicated to Lord
-Ayappa]{.underline}](https://blog.ipleaders.in/indian-young-lawyers-association-vs-the-state-of-kerala-2018-a-case-analysis/#%3A~%3Atext%3Dof%20the%20case.%E2%80%9D-%2CBackground%20and%20facts%20of%20the%20case%2C-The%20present%20case),
+Ayappa]](https://blog.ipleaders.in/indian-young-lawyers-association-vs-the-state-of-kerala-2018-a-case-analysis/#%3A~%3Atext%3Dof%20the%20case.%E2%80%9D-%2CBackground%20and%20facts%20of%20the%20case%2C-The%20present%20case),
 who is considered to have been born out of the Union of Lord
 
 Shiva and Lord Vishnu in his Mohini avtar. The Ayappa is widely
@@ -104,7 +104,7 @@ in the Court.
 > *Indian Young Lawyers Association versus the State of Kerala AIR 2018
 > SUPREME COURT 1650*
 >
-> [*[https://indiankanoon.org/doc/163639357/]{.underline}*](https://indiankanoon.org/doc/163639357/)
+> [*[https://indiankanoon.org/doc/163639357/]*](https://indiankanoon.org/doc/163639357/)
 >
-> *[[https://blog.ipleaders.in/indian-young-lawyers-association-vs-the-state-of-kerala-2018-a-cas]{.underline}](https://blog.ipleaders.in/indian-young-lawyers-association-vs-the-state-of-kerala-2018-a-case-analysis/)
-> [[e-analysis/]{.underline}](https://blog.ipleaders.in/indian-young-lawyers-association-vs-the-state-of-kerala-2018-a-case-analysis/)*
+> *[[https://blog.ipleaders.in/indian-young-lawyers-association-vs-the-state-of-kerala-2018-a-cas]](https://blog.ipleaders.in/indian-young-lawyers-association-vs-the-state-of-kerala-2018-a-case-analysis/)
+> [[e-analysis/]](https://blog.ipleaders.in/indian-young-lawyers-association-vs-the-state-of-kerala-2018-a-case-analysis/)*

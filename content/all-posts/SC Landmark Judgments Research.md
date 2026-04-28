@@ -1033,7 +1033,7 @@ interpretation clarified that administrative actions and penalties do
 not bar subsequent judicial prosecution, distinguishing between
 administrative proceedings and judicial prosecution.
 
-59) [In Re: Berubari Union and Exchange of Enclaves (1960)]{.underline}
+59) [In Re: Berubari Union and Exchange of Enclaves (1960)]
 
 Following the Partition, enclaves of Indian territory existed within
 Bangladesh (then East Pakistan), and vice versa. India and Pakistan

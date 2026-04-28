@@ -17,7 +17,7 @@ speaking under entirely unexpected circumstances. The debate centred on
 the "Objectives Resolution" introduced by Jawaharlal Nehru on 13
 December, which laid out the guiding aims and principles for the future
 Constitution of India.
-([[constitutionofindia.net]{.underline}](https://www.constitutionofindia.net/blog/this-month-in-constitution-making-january-1947-the-constituent-assembly-passes-the-objectives-resolution/?utm_source=chatgpt.com))
+([[constitutionofindia.net]](https://www.constitutionofindia.net/blog/this-month-in-constitution-making-january-1947-the-constituent-assembly-passes-the-objectives-resolution/?utm_source=chatgpt.com))
 
 The day began much like earlier sessions, with members rising to discuss
 the language of the Resolution, the nature of sovereignty, and the
@@ -26,14 +26,14 @@ the Chairman of the Assembly unexpectedly called upon Ambedkar to speak.
 Ambedkar later said that "your invitation has come to me as a surprise",
 explaining that he believed his turn would come only the next day
 because around twenty members were listed before him.
-([[cdnbbsr.s3waas.gov.in]{.underline}](https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2024/07/2024070863.pdf?utm_source=chatgpt.com))
+([[cdnbbsr.s3waas.gov.in]](https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2024/07/2024070863.pdf?utm_source=chatgpt.com))
 
 He openly admitted that he had not prepared a speech for this moment.
 The time limits placed on speakers, the complexity of the issues being
 discussed, and the suddenness of the call made the task difficult. He
 therefore said he would "condense in as few words as possible" his
 thoughts on the Resolution.
-([[cdnbbsr.s3waas.gov.in]{.underline}](https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2024/07/2024070863.pdf?utm_source=chatgpt.com))
+([[cdnbbsr.s3waas.gov.in]](https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2024/07/2024070863.pdf?utm_source=chatgpt.com))
 
 Even so, his remarks that day were striking in their clarity.
 
@@ -48,7 +48,7 @@ could unite:
 > "With all our castes and creeds, I have not the slightest hesitation
 > that we shall in some form be a united people."
 >
-> ([[indiankanoon.org]{.underline}](https://indiankanoon.org/doc/1887990/?utm_source=chatgpt.com))
+> ([[indiankanoon.org]](https://indiankanoon.org/doc/1887990/?utm_source=chatgpt.com))
 
 He also spoke about the League's agitation for Pakistan. Rather than
 treat it as final, he expressed the view that the political climate
@@ -59,20 +59,20 @@ might change with time:
 > and they too will begin to think that a United India is better even
 > for them."
 >
-> ([[theprint.in]{.underline}](https://theprint.in/opinion/great-speeches/ambedkar-1946-speech-muslim-league-constituent-assembly/2703816/?utm_source=chatgpt.com))
+> ([[theprint.in]](https://theprint.in/opinion/great-speeches/ambedkar-1946-speech-muslim-league-constituent-assembly/2703816/?utm_source=chatgpt.com))
 
 Ambedkar then turned to the content of the Resolution itself. While it
 declared important rights --- life, liberty, and property --- he pointed
 out that it did not mention any mechanisms for enforcing those rights. A
 declaration of rights without remedies, he warned, was incomplete.
-([[cdnbbsr.s3waas.gov.in]{.underline}](https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2024/07/2024070863.pdf?utm_source=chatgpt.com))
+([[cdnbbsr.s3waas.gov.in]](https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2024/07/2024070863.pdf?utm_source=chatgpt.com))
 
 He also drew attention to the absence of any reference to the earlier
 idea of "grouping of provinces". Although he personally supported a
 strong central government, he noted that the Resolution was silent on
 whether provinces would be grouped into intermediate units, raising
 questions about how the federal balance would be structured.
-([[cdnbbsr.s3waas.gov.in]{.underline}](https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2024/07/2024070863.pdf?utm_source=chatgpt.com))
+([[cdnbbsr.s3waas.gov.in]](https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2024/07/2024070863.pdf?utm_source=chatgpt.com))
 
 The episode stands out because it offers a vivid look at how the
 Assembly actually functioned: fluid, demanding, and often unpredictable.
@@ -107,7 +107,7 @@ of India..." This
 suggestion came from H. V. ('Hari') Kamath, member from the Central
 Provinces and Berar, who moved Amendment No. 430, proposing precisely
 that language. [[The Indian
-Express+1]{.underline}](https://indianexpress.com/article/research/how-the-constituent-assembly-debated-over-god-in-the-constitution-9691046/?utm_source=chatgpt.com)
+Express+1]](https://indianexpress.com/article/research/how-the-constituent-assembly-debated-over-god-in-the-constitution-9691046/?utm_source=chatgpt.com)
 
 Kamath argued that opening with "In the name of God" reflected the
 spiritual heritage of India and would give due solemnity to the nation's
@@ -115,7 +115,7 @@ founding document. The Assembly's President reminded members that the
 Third Schedule allowed oath-taking "in the name of God" *or* a solemn
 affirmation, showing sensitivity to the beliefs of non-theists. [[The
 Indian
-Express+1]{.underline}](https://indianexpress.com/article/research/how-the-constituent-assembly-debated-over-god-in-the-constitution-9691046/?utm_source=chatgpt.com)
+Express+1]](https://indianexpress.com/article/research/how-the-constituent-assembly-debated-over-god-in-the-constitution-9691046/?utm_source=chatgpt.com)
 
 Immediately, tensions surfaced. Purnima Banerji from the United
 Provinces rose to caution against placing faith before the Assembly's
@@ -124,9 +124,9 @@ decision-making. She appealed to her fellow members:
 > "It will be difficult to affirm or deny God \... and I would ask the
 > mover of this amendment not to put us to the embarrassment of having
 > to vote upon God."
-> [[The]{.underline}](https://indianexpress.com/article/research/how-the-constituent-assembly-debated-over-god-in-the-constitution-9691046/?utm_source=chatgpt.com)
+> [[The]](https://indianexpress.com/article/research/how-the-constituent-assembly-debated-over-god-in-the-constitution-9691046/?utm_source=chatgpt.com)
 > [[Indian
-> Express]{.underline}](https://indianexpress.com/article/research/how-the-constituent-assembly-debated-over-god-in-the-constitution-9691046/?utm_source=chatgpt.com)
+> Express]](https://indianexpress.com/article/research/how-the-constituent-assembly-debated-over-god-in-the-constitution-9691046/?utm_source=chatgpt.com)
 
 Her remark underscored the delicate pluralism at play: India was deeply
 diverse in religious belief, and the idea of the Assembly voting on
@@ -135,7 +135,7 @@ diverse in religious belief, and the idea of the Assembly voting on
 The arguments became sharper. One member cautioned that acceptance of
 the amendment would amount to compulsion in matters of faith, going
 against the principle of freedom of belief.
-[[BYJU\'S]{.underline}](https://byjus.com/free-ias-prep/constituent-assembly-debate-on-preamble/?utm_source=chatgpt.com)
+[[BYJU\'S]](https://byjus.com/free-ias-prep/constituent-assembly-debate-on-preamble/?utm_source=chatgpt.com)
 On the other side, supporters felt the phrase would honour tradition and
 signal moral seriousness. But for many, the question was deeper: could a
 founding text, meant to embody equality and pluralism, begin with a
@@ -145,15 +145,15 @@ different faiths?
 When the show-of-hands vote was taken, 41 members supported the
 amendment, while G8 opposed it. The proposal to prefix the Preamble with
 "In the name of God..." was thus defeated. [[Constitution
-of]{.underline}](https://www.constitutionofindia.net/articles/preamble/?utm_source=chatgpt.com)
-[[India+1]{.underline}](https://www.constitutionofindia.net/articles/preamble/?utm_source=chatgpt.com)
+of]](https://www.constitutionofindia.net/articles/preamble/?utm_source=chatgpt.com)
+[[India+1]](https://www.constitutionofindia.net/articles/preamble/?utm_source=chatgpt.com)
 
 Other related amendments were also proposed on the same day: there were
 suggestions to rename India as the "Union of Indian Socialistic
 Republics" (in imitation of the USSR), and to include the name of
 Mahatma Gandhi in the Preamble. Neither gained traction. In every case
 the Assembly chose to maintain more neutral, secular phrasing.
-[[Testbook]{.underline}](https://testbook.com/ias-preparation/constituent-assembly-debates-on-preamble?utm_source=chatgpt.com)
+[[Testbook]](https://testbook.com/ias-preparation/constituent-assembly-debates-on-preamble?utm_source=chatgpt.com)
 
 What stands out in this episode is how the Assembly treated an amendment
 about invocation of deity not as a trivial matter, but one of
@@ -168,7 +168,7 @@ In the end, the Preamble adopted on 2G November 1949 opened plainly:
 > into a SOVEREIGN DEMOCRATIC REPUBLIC..."
 >
 > [[Constitution of
-> India]{.underline}](https://www.constitutionofindia.net/articles/preamble/?utm_source=chatgpt.com)
+> India]](https://www.constitutionofindia.net/articles/preamble/?utm_source=chatgpt.com)
 
 The defeated "In the name of God" amendment did not appear. That choice
 reflected the broader trajectory of Indian constitutionalism---one that
@@ -188,9 +188,9 @@ of the Draft Constitution be amended to read:
 
 > "India shall be a Secular, Federal and Socialist Union of States."
 > [[Constitution
-> of]{.underline}](https://www.barandbench.com/columns/constitution-day-2024-why-the-constituent-assembly-refused-to-add-socialist-and-secular?utm_source=chatgpt.com)
+> of]](https://www.barandbench.com/columns/constitution-day-2024-why-the-constituent-assembly-refused-to-add-socialist-and-secular?utm_source=chatgpt.com)
 > [[India+3Bar and Bench - Indian Legal
-> news+3BYJU\'S+3]{.underline}](https://www.barandbench.com/columns/constitution-day-2024-why-the-constituent-assembly-refused-to-add-socialist-and-secular?utm_source=chatgpt.com)
+> news+3BYJU\'S+3]](https://www.barandbench.com/columns/constitution-day-2024-why-the-constituent-assembly-refused-to-add-socialist-and-secular?utm_source=chatgpt.com)
 
 Shah's ambitious proposal combined three powerful terms: *secular*,
 *federal* and *socialist*. Each word carried weight. He felt that
@@ -203,24 +203,24 @@ India would commit itself to economic justice and equal opportunity.
 According to one summary, his amendment stated:
 
 > "India shall be a Secular, Federal, Socialist Union of States."
-> [[BYJU\'S+1]{.underline}](https://byjus.com/free-ias-prep/constituent-assembly-debate-on-preamble/?utm_source=chatgpt.com)
+> [[BYJU\'S+1]](https://byjus.com/free-ias-prep/constituent-assembly-debate-on-preamble/?utm_source=chatgpt.com)
 
 As the debate commenced, Shah carefully laid out his arguments. He said
 that if India truly wished to be secular, it should be explicitly stated
 in the text of the Constitution so there would be "no misunderstanding
 or misapprehension". [[Bar and Bench - Indian Legal
-news+1]{.underline}](https://www.barandbench.com/columns/constitution-day-2024-why-the-constituent-assembly-refused-to-add-socialist-and-secular?utm_source=chatgpt.com)
+news+1]](https://www.barandbench.com/columns/constitution-day-2024-why-the-constituent-assembly-refused-to-add-socialist-and-secular?utm_source=chatgpt.com)
 On federalism, he reminded members that calling India a "Union" alone,
 without the word "federal", might leave ambiguity over how much autonomy
 the states would enjoy.
-[[BYJU\'S]{.underline}](https://byjus.com/free-ias-prep/constituent-assembly-debate-on-preamble/?utm_source=chatgpt.com)
+[[BYJU\'S]](https://byjus.com/free-ias-prep/constituent-assembly-debate-on-preamble/?utm_source=chatgpt.com)
 On socialism, Shah explained that by including that word India would
 make clear its goal of "equal justice and equal opportunity for
 
 everybody ... by his labour, by his intelligence, by his work, all that
 he can to the maximum capacity" and assured of "a decent civilised
 standard of existence".
-[[BYJU\'S]{.underline}](https://byjus.com/free-ias-prep/constituent-assembly-debate-on-preamble/?utm_source=chatgpt.com)
+[[BYJU\'S]](https://byjus.com/free-ias-prep/constituent-assembly-debate-on-preamble/?utm_source=chatgpt.com)
 
 However, the amendment encountered formidable opposition. Two of the
 prominent opponents were
@@ -232,7 +232,7 @@ could be misleading or even dangerous in the Indian context. He pointed
 out that the British-North America Act had used "Union" not "Federal".
 With a sharp note he warned of "the tendency to disintegrate in our
 body-politic" if "federal" was over-emphasised. [[Constitution of
-India]{.underline}](https://www.constitutionofindia.net/debates/15-nov-1948/?utm_source=chatgpt.com)
+India]](https://www.constitutionofindia.net/debates/15-nov-1948/?utm_source=chatgpt.com)
 
 Ambedkar's objection to "socialist" was especially pointed. He contended
 that the Constitution should not bind future generations to a specific
@@ -242,21 +242,21 @@ social and economic order. As he said:
 > decided by the people themselves according to time and circumstances.
 > It cannot be laid down in the Constitution itself... because that is
 > destroying democracy altogether."
-> [[Wikipedia+2Bar]{.underline}](https://en.wikipedia.org/wiki/Forty-second_Amendment_of_the_Constitution_of_India?utm_source=chatgpt.com)
+> [[Wikipedia+2Bar]](https://en.wikipedia.org/wiki/Forty-second_Amendment_of_the_Constitution_of_India?utm_source=chatgpt.com)
 > [[and Bench - Indian Legal
-> news+2]{.underline}](https://en.wikipedia.org/wiki/Forty-second_Amendment_of_the_Constitution_of_India?utm_source=chatgpt.com)
+> news+2]](https://en.wikipedia.org/wiki/Forty-second_Amendment_of_the_Constitution_of_India?utm_source=chatgpt.com)
 
 He argued that many of the socialist goals were already captured by the
 Fundamental Rights and Directive Principles of State Policy; adding
 "socialist" might therefore be both unnecessary and constricting.
 [[Constitution of
-India+1]{.underline}](https://www.constitutionofindia.net/debates/15-nov-1948/?utm_source=chatgpt.com)
+India+1]](https://www.constitutionofindia.net/debates/15-nov-1948/?utm_source=chatgpt.com)
 
 After a sustained debate, the motion was put to vote and was defeated.
 The amendment did not pass and the Constitution's text remained without
 those three qualifiers. [[Bar and Bench - Indian
-Legal]{.underline}](https://www.barandbench.com/columns/constitution-day-2024-why-the-constituent-assembly-refused-to-add-socialist-and-secular?utm_source=chatgpt.com)
-[[news+1]{.underline}](https://www.barandbench.com/columns/constitution-day-2024-why-the-constituent-assembly-refused-to-add-socialist-and-secular?utm_source=chatgpt.com)
+Legal]](https://www.barandbench.com/columns/constitution-day-2024-why-the-constituent-assembly-refused-to-add-socialist-and-secular?utm_source=chatgpt.com)
+[[news+1]](https://www.barandbench.com/columns/constitution-day-2024-why-the-constituent-assembly-refused-to-add-socialist-and-secular?utm_source=chatgpt.com)
 
 What gives this episode its full richness is how it sheds light on the
 Assembly's thinking about ideology and constitutional drafting. It shows
@@ -301,7 +301,7 @@ and Speeches*, notes that his work during this period amounted to
 "herculean intellectual labour" carried out in conditions that would
 have overwhelmed many others. ([[*Writings and Speeches*, Vol. 13,
 Ministry of External
-Affairs]{.underline}](https://www.mea.gov.in/Images/CPV/Volume13.pdf?utm_source=chatgpt.com))
+Affairs]](https://www.mea.gov.in/Images/CPV/Volume13.pdf?utm_source=chatgpt.com))
 
 The pressure was relentless. The Drafting Committee, constituted on 29
 August 1947, was initially a seven-member body, but several members soon
@@ -346,7 +346,7 @@ and again as the Assembly approved amendments, sometimes overnight.
 Ambedkar reviewed each change, ensuring that a clause added to one part
 of the Constitution did not contradict another. ([[*Writings and
 Speeches*, Vol.
-13]{.underline}](https://www.mea.gov.in/Images/CPV/Volume13.pdf?utm_source=chatgpt.com))
+13]](https://www.mea.gov.in/Images/CPV/Volume13.pdf?utm_source=chatgpt.com))
 
 The most demanding months came in mid-1949. Ambedkar's health had
 deteriorated to the point where he was often in pain, yet he pressed
@@ -397,7 +397,7 @@ in the Constitution, and "Bharat" was a name that resonated with that
 long cultural history. According to him, the Constitution should reflect
 both modern nationhood and its older civilisational roots.
 ([[Constituent Assembly Debates, 18 November
-1949]{.underline}](https://www.constitutionofindia.net/debates/18-nov-1949/?utm_source=chatgpt.com))
+1949]](https://www.constitutionofindia.net/debates/18-nov-1949/?utm_source=chatgpt.com))
 
 Others similarly felt that "Bharat" was not merely a label but a marker
 of identity, continuity and dignity. Members pointed out that the name
@@ -419,9 +419,9 @@ Assembly. Referring to Ambedkar's proposed phrasing --- "India, that is
 Bharat" --- he quipped that it was a "hotch-potch sort of name" and a
 testament to Ambedkar's cleverness in trying to reconcile multiple
 viewpoints at once. ([[Constituent Assembly Debates,
-24]{.underline}](https://www.constitutionofindia.net/debates/24-nov-1949/?utm_source=chatgpt.com)
+24]](https://www.constitutionofindia.net/debates/24-nov-1949/?utm_source=chatgpt.com)
 [[November
-1949]{.underline}](https://www.constitutionofindia.net/debates/24-nov-1949/?utm_source=chatgpt.com))
+1949]](https://www.constitutionofindia.net/debates/24-nov-1949/?utm_source=chatgpt.com))
 
 Tahir's remark was not meant as an insult but as an expression of the
 complex balancing act that the drafters were performing. The Assembly
@@ -479,7 +479,7 @@ He pointed out, in classic lawyerly fashion:
 > does not have proper antecedent concord."
 >
 > (CAD, Vol. IX, 10 September 1949, p. 143G)
-> [[https://www.constitutionofindia.net/debates/10-sep-1949/vol9/112/]{.underline}](https://www.constitutionofindia.net/debates/10-sep-1949/vol9/112/)
+> [[https://www.constitutionofindia.net/debates/10-sep-1949/vol9/112/]](https://www.constitutionofindia.net/debates/10-sep-1949/vol9/112/)
 
 He suggested that the clause should be completely restructured to avoid
 what he called "dangerous ambiguity", even proposing alternative
@@ -656,7 +656,7 @@ mention his grandfather's name as well. The government agreed to this.
 
 > Source: The Better India (biographical profile based on archival
 > research)
-> [[https://thebetterindia.com/128712/prem-behari-raizada-india-constitution/]{.underline}](https://thebetterindia.com/128712/prem-behari-raizada-india-constitution/?utm_source=chatgpt.com)
+> [[https://thebetterindia.com/128712/prem-behari-raizada-india-constitution/]](https://thebetterindia.com/128712/prem-behari-raizada-india-constitution/?utm_source=chatgpt.com)
 
 Raizada then began months of painstaking calligraphy at the
 *Constitution Hall* (today's Parliament House Annexe). Each page was
@@ -666,15 +666,15 @@ thick-thin modulation characteristic of italic calligraphy.
 
 > Source: Testbook fact sheet
 
-[[https://testbook.com/question-answer/the-original-constitution-of-india-was-handwritten\--G02b932e]{.underline}](https://testbook.com/question-answer/the-original-constitution-of-india-was-handwritten--602b932e336bc6af6bc4d936?utm_source=chatgpt.com)
-[[33GbcGafGbc4d93G]{.underline}](https://testbook.com/question-answer/the-original-constitution-of-india-was-handwritten--602b932e336bc6af6bc4d936?utm_source=chatgpt.com)
+[[https://testbook.com/question-answer/the-original-constitution-of-india-was-handwritten\--G02b932e]](https://testbook.com/question-answer/the-original-constitution-of-india-was-handwritten--602b932e336bc6af6bc4d936?utm_source=chatgpt.com)
+[[33GbcGafGbc4d93G]](https://testbook.com/question-answer/the-original-constitution-of-india-was-handwritten--602b932e336bc6af6bc4d936?utm_source=chatgpt.com)
 
 The manuscript comprised 251 pages and weighed approximately 3.75
 kilograms once completed.
 
 > Source: The Better India
 >
-> [[https://thebetterindia.com/128712/prem-behari-raizada-india-constitution/]{.underline}](https://thebetterindia.com/128712/prem-behari-raizada-india-constitution/?utm_source=chatgpt.com)
+> [[https://thebetterindia.com/128712/prem-behari-raizada-india-constitution/]](https://thebetterindia.com/128712/prem-behari-raizada-india-constitution/?utm_source=chatgpt.com)
 
 The calligraphy itself was only one part of the craft. The
 Constitution's pages were also ornamented with artwork from artists of
@@ -692,7 +692,7 @@ page-by-page, demonstrating a coordinated effort between calligraphers
 and artists.
 
 > Source: Lalit Kala Akademi publication
-> [[https://lalitkala.gov.in/uploads/update/G002e5c30107735f9c8Gd8818ffad970.pdf]{.underline}](https://lalitkala.gov.in/uploads/update/6002e5c30107735f9c86d8818ffad970.pdf?utm_source=chatgpt.com)
+> [[https://lalitkala.gov.in/uploads/update/G002e5c30107735f9c8Gd8818ffad970.pdf]](https://lalitkala.gov.in/uploads/update/6002e5c30107735f9c86d8818ffad970.pdf?utm_source=chatgpt.com)
 
 Raizada reportedly wrote for six to eight hours a day with intense
 discipline. There is no evidence of errors because every page had to be
@@ -716,8 +716,8 @@ calligraphy became the physical embodiment of that intellectual effort.
 
 > Source for amendment numbers: Government document on Constitution Day
 
-[[https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133G19aG0c30f3559e/uploads/2024/07/20240708G]{.underline}](https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2024/07/2024070860.pdf?utm_source=chatgpt.com)
-[[0.pdf]{.underline}](https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2024/07/2024070860.pdf?utm_source=chatgpt.com)
+[[https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133G19aG0c30f3559e/uploads/2024/07/20240708G]](https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2024/07/2024070860.pdf?utm_source=chatgpt.com)
+[[0.pdf]](https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2024/07/2024070860.pdf?utm_source=chatgpt.com)
 
 The decision to handwrite the Constitution --- and to do so with such
 artistic seriousness --- was deliberate. It connected modern
@@ -754,7 +754,7 @@ Akademi, which documented Vaidya's role and the artistic collaboration
 that supported both the English and Hindi manuscripts.
 
 > Source: Lalit Kala Akademi publication
-> [[https://lalitkala.gov.in/uploads/update/G002e5c30107735f9c8Gd8818ffad970.pdf]{.underline}](https://lalitkala.gov.in/uploads/update/6002e5c30107735f9c86d8818ffad970.pdf?utm_source=chatgpt.com)
+> [[https://lalitkala.gov.in/uploads/update/G002e5c30107735f9c8Gd8818ffad970.pdf]](https://lalitkala.gov.in/uploads/update/6002e5c30107735f9c86d8818ffad970.pdf?utm_source=chatgpt.com)
 
 A Work of Equal Authority
 
@@ -797,7 +797,7 @@ manuscript with traditional Indian calligraphic techniques, using tools
 and ink suited to preserving script clarity over decades.
 
 > Source: Lalit Kala Akademi publication
-> [[https://lalitkala.gov.in/uploads/update/G002e5c30107735f9c8Gd8818ffad970.pdf]{.underline}](https://lalitkala.gov.in/uploads/update/6002e5c30107735f9c86d8818ffad970.pdf?utm_source=chatgpt.com)
+> [[https://lalitkala.gov.in/uploads/update/G002e5c30107735f9c8Gd8818ffad970.pdf]](https://lalitkala.gov.in/uploads/update/6002e5c30107735f9c86d8818ffad970.pdf?utm_source=chatgpt.com)
 
 While fewer public interviews or personal documents survive from Vaidya
 compared with Raizada, his presence is visible on every page he wrote.
@@ -879,7 +879,7 @@ constitution-making even when they did not have a direct voice.
 
 > Source: Press Information Bureau factsheet
 
-[[https://static.pib.gov.in/WriteReadData/specificdocs/documents/2024/nov/doc20241125450301.pdf]{.underline}](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2024/nov/doc20241125450301.pdf?utm_source=chatgpt.com)
+[[https://static.pib.gov.in/WriteReadData/specificdocs/documents/2024/nov/doc20241125450301.pdf]](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2024/nov/doc20241125450301.pdf?utm_source=chatgpt.com)
 
 The Constituent Assembly met for 1G7 days between December 194G and
 November 1949. Its sessions were dense with legal argument,
@@ -984,7 +984,7 @@ story of almost unmatched deliberative depth.
 
 > Source: Press Information Bureau factsheet
 
-[[https://static.pib.gov.in/WriteReadData/specificdocs/documents/2024/nov/doc20241125450301.pdf]{.underline}](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2024/nov/doc20241125450301.pdf?utm_source=chatgpt.com)
+[[https://static.pib.gov.in/WriteReadData/specificdocs/documents/2024/nov/doc20241125450301.pdf]](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2024/nov/doc20241125450301.pdf?utm_source=chatgpt.com)
 
 The debates began in earnest during the "second reading"---a stage where
 the Assembly examined the draft clause by clause. This was the moment
@@ -1102,7 +1102,7 @@ reflection of the tension between modern political identity and older
 cultural identity.
 
 > Source: Constituent Assembly Debates, 24 November 1949
-> [[https://www.constitutionofindia.net/debates/24-nov-1949/]{.underline}](https://www.constitutionofindia.net/debates/24-nov-1949/?utm_source=chatgpt.com)
+> [[https://www.constitutionofindia.net/debates/24-nov-1949/]](https://www.constitutionofindia.net/debates/24-nov-1949/?utm_source=chatgpt.com)
 
 Several members argued passionately that the term "Bharat" was not
 merely a cultural reference but a name deeply rooted in ancient texts,
@@ -1208,8 +1208,8 @@ detailed and passionate, but it was not accepted.
 > Source for debates on Article 1: Constituent Assembly Debates, Vol.
 > VII (15--17 November 1948)
 
-[[https://ruralindiaonline.org/en/library/resource/constituent-assembly-of-india-debates-proceedings-vo]{.underline}](https://ruralindiaonline.org/en/library/resource/constituent-assembly-of-india-debates-proceedings-volume-vii---november-15-and-17-1948/?utm_source=chatgpt.com)
-[[lume-vii\-\--november-15-and-17-1948/]{.underline}](https://ruralindiaonline.org/en/library/resource/constituent-assembly-of-india-debates-proceedings-volume-vii---november-15-and-17-1948/?utm_source=chatgpt.com)
+[[https://ruralindiaonline.org/en/library/resource/constituent-assembly-of-india-debates-proceedings-vo]](https://ruralindiaonline.org/en/library/resource/constituent-assembly-of-india-debates-proceedings-volume-vii---november-15-and-17-1948/?utm_source=chatgpt.com)
+[[lume-vii\-\--november-15-and-17-1948/]](https://ruralindiaonline.org/en/library/resource/constituent-assembly-of-india-debates-proceedings-volume-vii---november-15-and-17-1948/?utm_source=chatgpt.com)
 
 Ambedkar's response to Shah and to the broader anxiety about wording was
 calm, deliberate, and legally grounded. He explained that the Drafting
@@ -1300,7 +1300,7 @@ Assembly's debates in late 1948.
 
 > Source: CLPR (Centre for Law and Policy Research) historical
 > constitutional archives
-> [[https://clpr.org.in/wp-content/uploads/2017/11/UCC-Part-1-Constitutional-History.pdf]{.underline}](https://clpr.org.in/wp-content/uploads/2017/11/UCC-Part-1-Constitutional-History.pdf?utm_source=chatgpt.com)
+> [[https://clpr.org.in/wp-content/uploads/2017/11/UCC-Part-1-Constitutional-History.pdf]](https://clpr.org.in/wp-content/uploads/2017/11/UCC-Part-1-Constitutional-History.pdf?utm_source=chatgpt.com)
 
 But the opposition to an immediate uniform code was equally strong.
 Muslim members of the Assembly feared that abolishing community-specific
@@ -1405,7 +1405,7 @@ rejected.
 Source: RGICS (Rajiv Gandhi Institute for Contemporary Studies) archival
 analysis of Constituent Assembly debates on secularism
 
-> [[https://www.rgics.org/democracy/secularism-in-the-constituent-assembly-debates-194G-1950/]{.underline}](https://www.rgics.org/democracy/secularism-in-the-constituent-assembly-debates-1946-1950/?utm_source=chatgpt.com)
+> [[https://www.rgics.org/democracy/secularism-in-the-constituent-assembly-debates-194G-1950/]](https://www.rgics.org/democracy/secularism-in-the-constituent-assembly-debates-1946-1950/?utm_source=chatgpt.com)
 
 Shah's proposals met resistance from many members, including Ambedkar,
 who felt that secularism was already woven into the fabric of the
@@ -1816,7 +1816,7 @@ himself far beyond what his body could comfortably bear.
 > Source: *Dr. B. R. Ambedkar: Writings and Speeches*, Vol. 13
 > (Government of India)
 >
-> [[https://www.mea.gov.in/Images/CPV/Volume13.pdf]{.underline}](https://www.mea.gov.in/Images/CPV/Volume13.pdf?utm_source=chatgpt.com)
+> [[https://www.mea.gov.in/Images/CPV/Volume13.pdf]](https://www.mea.gov.in/Images/CPV/Volume13.pdf?utm_source=chatgpt.com)
 
 A glimpse into these exhausting nights can be reconstructed from records
 and later accounts. As Assembly members dispersed after debates, the
@@ -1909,7 +1909,7 @@ factsheet, but the story behind it is much richer than a statistic.
 
 > Source: Government of India, Press Information Bureau
 
-[[https://static.pib.gov.in/WriteReadData/specificdocs/documents/2024/nov/doc20241125450301.pdf]{.underline}](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2024/nov/doc20241125450301.pdf?utm_source=chatgpt.com)
+[[https://static.pib.gov.in/WriteReadData/specificdocs/documents/2024/nov/doc20241125450301.pdf]](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2024/nov/doc20241125450301.pdf?utm_source=chatgpt.com)
 
 Newspaper archives from the late 1940s describe the gallery as a place
 of intense, almost reverential attention. The visitors arrived early,
@@ -2024,8 +2024,8 @@ work in India's complex social and political setting.
 > Source: Factly, *Ambedkar as Chairman and Rau as Constitutional
 > Adviser*
 
-[[https://factly.in/dr-b-r-ambedkar-is-the-chairman-of-the-drafting-committee-whereas-b-n-rau-is-the-c]{.underline}](https://factly.in/dr-b-r-ambedkar-is-the-chairman-of-the-drafting-committee-whereas-b-n-rau-is-the-constitutional-advisor-of-the-constituent-assembly/?utm_source=chatgpt.com)
-[[onstitutional-advisor-of-the-constituent-assembly/]{.underline}](https://factly.in/dr-b-r-ambedkar-is-the-chairman-of-the-drafting-committee-whereas-b-n-rau-is-the-constitutional-advisor-of-the-constituent-assembly/?utm_source=chatgpt.com)
+[[https://factly.in/dr-b-r-ambedkar-is-the-chairman-of-the-drafting-committee-whereas-b-n-rau-is-the-c]](https://factly.in/dr-b-r-ambedkar-is-the-chairman-of-the-drafting-committee-whereas-b-n-rau-is-the-constitutional-advisor-of-the-constituent-assembly/?utm_source=chatgpt.com)
+[[onstitutional-advisor-of-the-constituent-assembly/]](https://factly.in/dr-b-r-ambedkar-is-the-chairman-of-the-drafting-committee-whereas-b-n-rau-is-the-constitutional-advisor-of-the-constituent-assembly/?utm_source=chatgpt.com)
 
 In October 1947, Rau prepared a comprehensive draft Constitution of 243
 articles and submitted it to the Drafting Committee. This draft was not
@@ -2438,7 +2438,7 @@ members spoke openly about the daily degradations that millions of
 Indians suffered.
 
 > Source: Constituent Assembly Debates -- 29 November 1948
-> [[https://www.constitutionofindia.net/debates/29-nov-1948/]{.underline}](https://www.constitutionofindia.net/debates/29-nov-1948/)
+> [[https://www.constitutionofindia.net/debates/29-nov-1948/]](https://www.constitutionofindia.net/debates/29-nov-1948/)
 
 One of the most striking interventions came from *Begum Aizaz Rasul*,
 the only Muslim woman in the Assembly. She declared that discrimination
@@ -2540,7 +2540,7 @@ intense stage on 15 September 1949, when the Assembly considered Draft
 Article 15A (later Article 22).
 
 > Source: Constituent Assembly Debates -- 15 September 1949
-> [[https://www.constitutionofindia.net/debates/15-sep-1949/]{.underline}](https://www.constitutionofindia.net/debates/15-sep-1949/)
+> [[https://www.constitutionofindia.net/debates/15-sep-1949/]](https://www.constitutionofindia.net/debates/15-sep-1949/)
 
 The hall was conflicted from the moment the session opened. India had
 just gone through Partition. There had been communal riots, refugee
@@ -2790,7 +2790,7 @@ not be compelled to implement social and economic rights overnight, but
 it could be *guided* by them for the future.
 
 > Source: Constituent Assembly Debates -- 19 November 1948
-> [[https://www.constitutionofindia.net/debates/19-nov-1948/]{.underline}](https://www.constitutionofindia.net/debates/19-nov-1948/)
+> [[https://www.constitutionofindia.net/debates/19-nov-1948/]](https://www.constitutionofindia.net/debates/19-nov-1948/)
 
 He described the Directive Principles as representing the nation's
 "aspirations" and argued that even though courts could not enforce them,
@@ -2962,7 +2962,7 @@ emergency, anxiety spread across the Assembly. The official debate of 1G
 October 1949 captures this mood with striking clarity.
 
 > Primary Source: Constituent Assembly Debates, 1G October 1949
-> [[https://www.constitutionofindia.net/debates/1G-oct-1949/]{.underline}](https://www.constitutionofindia.net/debates/16-oct-1949/)
+> [[https://www.constitutionofindia.net/debates/1G-oct-1949/]](https://www.constitutionofindia.net/debates/16-oct-1949/)
 
 Members like H. V. Kamath, always alert to threats to liberty,
 immediately raised alarm. He warned that the proposed emergency powers
@@ -3060,7 +3060,7 @@ panchayats be an enforceable constitutional obligation, or merely an
 advisory principle, or omitted altogether?
 
 > Primary Source: Constituent Assembly Debates -- 22 November 1948
-> [[https://www.constitutionofindia.net/debates/22-nov-1948/]{.underline}](https://www.constitutionofindia.net/debates/22-nov-1948/)
+> [[https://www.constitutionofindia.net/debates/22-nov-1948/]](https://www.constitutionofindia.net/debates/22-nov-1948/)
 
 The first push came from Gandhian members such as Thakur Das Bhargava,
 H. V. Kamath, and Prof.
@@ -3168,7 +3168,7 @@ wounds that were still bleeding?
 The official record of these debates is one of the most emotionally
 turbulent in the entire archive. Primary Source: Constituent Assembly
 Debates -- 10--12 August 1949
-[[https://www.constitutionofindia.net/debates/12-aug-1949/]{.underline}](https://www.constitutionofindia.net/debates/12-aug-1949/)
+[[https://www.constitutionofindia.net/debates/12-aug-1949/]](https://www.constitutionofindia.net/debates/12-aug-1949/)
 
 The issue was explosive because the subcontinent was still reeling from
 unprecedented displacement. Hindu and Sikh refugees had poured into
@@ -3306,7 +3306,7 @@ transcript of that day captures a tone rarely heard from him: intimate,
 emotional, almost trembling with meaning.
 
 > Primary Source: Constituent Assembly Debates --- 22 July 1947
-> [[https://www.constitutionofindia.net/debates/22-jul-1947/]{.underline}](https://www.constitutionofindia.net/debates/22-jul-1947/)
+> [[https://www.constitutionofindia.net/debates/22-jul-1947/]](https://www.constitutionofindia.net/debates/22-jul-1947/)
 
 Nehru said that a flag was not just cloth. "It is a symbol of the
 nation's spirit." He reminded the Assembly that the tricolour had
@@ -3429,7 +3429,7 @@ Assembly's conscience all
 along.
 
 > Primary Source: Constituent Assembly Debates --- 24 January 1950
-> [[https://www.constitutionofindia.net/debates/24-jan-1950/]{.underline}](https://www.constitutionofindia.net/debates/24-jan-1950/?utm_source=chatgpt.com)
+> [[https://www.constitutionofindia.net/debates/24-jan-1950/]](https://www.constitutionofindia.net/debates/24-jan-1950/?utm_source=chatgpt.com)
 
 And yet, something fascinating happened.
 
@@ -3630,7 +3630,7 @@ these words had been submitted earlier in the Drafting Committee and the
 Advisory Committee.
 
 > Primary Source: Constituent Assembly Debates -- 17 October 1949
-> [[https://www.constitutionofindia.net/debates/17-oct-1949/]{.underline}](https://www.constitutionofindia.net/debates/17-oct-1949/?utm_source=chatgpt.com)
+> [[https://www.constitutionofindia.net/debates/17-oct-1949/]](https://www.constitutionofindia.net/debates/17-oct-1949/?utm_source=chatgpt.com)
 
 K. T. Shah, one of the Assembly's most intellectually energetic members,
 rose with a characteristic mix of passion and precision. He proposed
@@ -4224,7 +4224,7 @@ to restore order. The official transcript shows moments where the record
 keeper simply wrote: *"uproar"*, *"interruptions"*, *"disorder in the
 House."* Primary Source: Constituent Assembly Debates -- 12 September
 1949
-[[https://www.constitutionofindia.net/debates/12-sep-1949/]{.underline}](https://www.constitutionofindia.net/debates/12-sep-1949/)
+[[https://www.constitutionofindia.net/debates/12-sep-1949/]](https://www.constitutionofindia.net/debates/12-sep-1949/)
 
 This was not ordinary disagreement. It was the closest the Assembly ever
 came to breaking apart emotionally.

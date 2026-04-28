@@ -5,5 +5,4 @@ description: "Constitution Museum Project"
 draft: false
 ---
 
-[📄 PDF ](/pdfs\Constitution Museum Project Art Research.pdf)
-
+[📄 PDF](/constitution-research/pdfs/art-research.pdf)

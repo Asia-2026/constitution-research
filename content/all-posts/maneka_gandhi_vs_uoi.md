@@ -9,7 +9,7 @@ draft: false
 # MANEKA GANDHI VS. THE UNION OF INDIA
 
 [[Maneka Gandhi versus the Union of
-India]{.underline}](https://indiankanoon.org/doc/1766147/) is a landmark
+India]](https://indiankanoon.org/doc/1766147/) is a landmark
 case that provided a new interpretation of fundamental rights. The case
 dates back to 1978. Maneka Gandhi, on receiving a notice from the
 Regional Passport Officer to surrender her passport and not finding any
@@ -76,5 +76,5 @@ Maneka Gandhi to show cause against the order.
 
 - Maneka Gandhi versus the Union of India AIR 1978 SUPREME COURT 597
 
-> [[https://indiankanoon.org/doc/1766147/]{.underline}](https://indiankanoon.org/doc/1766147/)
-> [[https://blog.ipleaders.in/maneka-gandhi-v-union-of-india/]{.underline}](https://blog.ipleaders.in/maneka-gandhi-v-union-of-india/)
+> [[https://indiankanoon.org/doc/1766147/]](https://indiankanoon.org/doc/1766147/)
+> [[https://blog.ipleaders.in/maneka-gandhi-v-union-of-india/]](https://blog.ipleaders.in/maneka-gandhi-v-union-of-india/)
