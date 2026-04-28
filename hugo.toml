@@ -9,12 +9,20 @@ theme = "book"
   BookToC = false
   BookLogo = "/constitution-research/images/logo.png"
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"  
+
 [[menu.main]]
   name = "All Posts"
   url = "/all-posts/"
   weight = 1
 
+
 [[menu.main]]
-  name = "Posts"
-  url = "/posts/"
+  name = "Tags"
+  url = "/tags/"
   weight = 2
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]  

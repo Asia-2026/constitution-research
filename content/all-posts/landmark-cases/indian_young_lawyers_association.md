@@ -2,7 +2,7 @@
 title: "Indian Young Lawyers Association vs The State of Kerala"
 date: 2026-04-16
 description: "Indian Young Lawyers Association vs The State of Kerala"
-tags: ["Commentary"]
+tags: ["Landmark Case"]
 draft: false
 ---
 

@@ -2,7 +2,7 @@
 title: "Anecdotes for Constitution Museum"
 date: 2026-04-16
 description: "Anecdotes for Constitution Museum"
-tags: ["Commentary", "Supreme Court", "Landmark Cases"]
+tags: ["Commentary"]
 draft: false
 ---
 

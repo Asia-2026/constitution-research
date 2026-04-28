@@ -2,7 +2,7 @@
 title: "Indira Gandhi vs Raj Narain"
 date: 2026-04-16
 description: "Indira Gandhi vs Raj Narain"
-tags: ["Landmark Cases"]
+tags: ["Landmark Case"]
 draft: false
 ---
 

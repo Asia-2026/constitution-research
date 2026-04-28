@@ -2,7 +2,7 @@
 title: "Maneka Gandhi vs The Union of India"
 date: 2026-04-16
 description: "Maneka Gandhi vs The Union of India"
-tags: ["Landmark Cases"]
+tags: ["Landmark Case"]
 draft: false
 ---
 
