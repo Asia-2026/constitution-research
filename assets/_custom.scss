@@ -1,3 +1,4 @@
+/* Menu styling */
 .book-menu nav a {
   color: #000035 !important;
   font-weight: 500;
@@ -6,4 +7,20 @@
 .book-menu nav a:hover {
   color: #000035 !important;
   text-decoration: underline;
+}
+
+/* ❌ Sirf right TOC hide karo */
+.book-toc {
+  display: none !important;
+}
+
+/* ❌ Ye REMOVE karo (ye issue ka reason hai) */
+/* .book-page {
+  max-width: 100% !important;
+} */
+
+/* ✅ Content ko adjust karo (without breaking sidebar) */
+.book-content {
+  max-width: 900px;
+  margin: 0 auto;
 }

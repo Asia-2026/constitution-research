@@ -2,51 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/constitution-research/commentary/consti_musuem_anecdotes/</loc>
+    <loc>https://asia-2026.github.io/constitution-research/all-posts/</loc>
+    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://asia-2026.github.io/constitution-research/all-posts/constitution-museum-project_art-research/</loc>
+    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://asia-2026.github.io/constitution-research/</loc>
+    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://asia-2026.github.io/constitution-research/all-posts/consti_musuem_anecdotes/</loc>
     <lastmod>2026-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/constitution-research/commentary/</loc>
+    <loc>https://asia-2026.github.io/constitution-research/tags/commentary/</loc>
     <lastmod>2026-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/constitution-research/tags/commentary/</loc>
+    <loc>https://asia-2026.github.io/constitution-research/all-posts/indian_young_lawyers_association/</loc>
     <lastmod>2026-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/constitution-research/commentary/indian_young_lawyers_association/</loc>
+    <loc>https://asia-2026.github.io/constitution-research/all-posts/indira_gandhi_vs_rajnarain/</loc>
     <lastmod>2026-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/constitution-research/commentary/indira_gandhi_vs_rajnarain/</loc>
+    <loc>https://asia-2026.github.io/constitution-research/tags/landmark-cases/</loc>
     <lastmod>2026-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/constitution-research/tags/landmark-cases/</loc>
+    <loc>https://asia-2026.github.io/constitution-research/all-posts/maneka_gandhi_vs_uoi/</loc>
     <lastmod>2026-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/constitution-research/commentary/maneka_gandhi_vs_uoi/</loc>
+    <loc>https://asia-2026.github.io/constitution-research/all-posts/sc-landmark-judgments-research/</loc>
     <lastmod>2026-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/constitution-research/commentary/sc-landmark-judgments-research/</loc>
+    <loc>https://asia-2026.github.io/constitution-research/tags/supreme-court/</loc>
     <lastmod>2026-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/constitution-research/tags/supreme-court/</loc>
+    <loc>https://asia-2026.github.io/constitution-research/tags/</loc>
     <lastmod>2026-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/constitution-research/tags/</loc>
-    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/constitution-research/</loc>
-    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/constitution-research/posts/</loc>
+    <loc>https://asia-2026.github.io/constitution-research/posts/</loc>
     <lastmod>2026-04-13T09:44:06+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/constitution-research/posts/welcome/</loc>
+    <loc>https://asia-2026.github.io/constitution-research/posts/welcome/</loc>
     <lastmod>2026-04-13T09:44:06+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/constitution-research/biographies/</loc>
+    <loc>https://asia-2026.github.io/constitution-research/biographies/</loc>
   </url><url>
-    <loc>http://localhost:1313/constitution-research/cad/</loc>
+    <loc>https://asia-2026.github.io/constitution-research/cad/</loc>
   </url><url>
-    <loc>http://localhost:1313/constitution-research/categories/</loc>
+    <loc>https://asia-2026.github.io/constitution-research/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/constitution-research/landmark-cases/</loc>
+    <loc>https://asia-2026.github.io/constitution-research/landmark-cases/</loc>
   </url>
 </urlset>

@@ -3,18 +3,15 @@ languageCode = "en-us"
 title = "Living Constitution Research"
 theme = "book"
 
-
-
 [params]
-  BookSection = "commentary"
+  BookSection = "all-posts"   # ⭐ ye change karo
   BookSearch = true
-  BookToC = true
-  BookLogo = "images/logo.png"
- 
+  BookToC = false
+  BookLogo = "/constitution-research/images/logo.png"
 
 [[menu.main]]
-  name = "Commentary"
-  url = "/commentary/"
+  name = "All Posts"
+  url = "/all-posts/"
   weight = 1
 
 [[menu.main]]
